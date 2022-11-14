@@ -1,0 +1,4 @@
+Hola, no me dio el tiempo para lograr guardar los comentarios, tampoco para hacer el dockerfile.
+Aún asi subo todo lo que pude hacer, estoy a las ordenes por cualquier consulta, gracias.
+
+Saludos, Alexis.
